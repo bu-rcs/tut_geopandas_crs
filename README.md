@@ -1,7 +1,7 @@
 # Setting up GeoPandas Conda Environment
 
 1. Use Git to clone this repository. Or download a zip file of this repository by clicking on the green "Code" button and then clicking "Download ZIP" in the pop-up menu.  
-    <img src="images/git_download_zip.png" style="width:300px"/>
+    <img src="images/git_download_zip.PNG" style="width:300px"/>
 1. If you downloaded the zipfile, unzip the contents to a location you will remember, such as your Desktop.
 1. Go to the anaconda website and install Anaconda on your machine: https://www.anaconda.com/products/individual  
 1. Start the “Anaconda Navigator” Application.  The icon will look similiar to the snippet below:  
@@ -21,4 +21,4 @@
     <img src="images/conda_start_jupyter.png" style="width:300px"/>
 1. This start the Jupyter Server and will open an internet browser on your machine, opening the home page for Jupter.  
 1. Using the file explorer in the homepage, navigate to the git repository folder you cloned, or downloaded and unzipped. Click on “Intro_CRS_w_GeoPandas.ipynb”, to open the notebook.  
-    <img src="images/conda_click_notebook.png" style="width:300px"/>
+    <img src="images/conda_click_notebook.PNG" style="width:300px"/>

@@ -1,16 +1,16 @@
 # Setting up GeoPandas Conda Environment
 
-1. Use Git to clone this repository. Or download a zip file of this repository by clicking on the green "Code" button and then clicking "Download ZIP" in the pop-up menu.   
+1. Use Git to clone this repository. Or download a zip file of this repository by clicking on the green "Code" button and then clicking "Download ZIP" in the pop-up menu.  
     <img src="images/git_download_zip.png" style="width:300px"/>
 1. If you downloaded the zipfile, unzip the contents to a location you will remember, such as your Desktop.
-1. Go to the anaconda website and install Anaconda on your machine: https://www.anaconda.com/products/individual 
+1. Go to the anaconda website and install Anaconda on your machine: https://www.anaconda.com/products/individual  
 1. Start the “Anaconda Navigator” Application.  The icon will look similiar to the snippet below:  
     <img src="images/anaconda_nav.png" style="width:200px"/>
 1. After the "Anaconda Navigator" window appears, on the left tab, click on “Environments” tab.  
     <img src="images/aconda_nav_env_click.png" style="width:500px"/>
-1. At the bottom of the middle pane, click on “import”.
+1. At the bottom of the middle pane, click on “import”.  
     <img src="images/conda_import_click.png" style="width:300px"/>
-1. A new window will appear.  Click on the folder icon on the right side, under “local drive”.  
+1. A new window will appear.  Click on the folder icon on the right side, under “local drive”.   
     <img src="images/conda_local_drive.png" style="width:300px"/>
 1. Navigate to the download tutorial file on your Desktop and select “environment.yml” file and then click on open.  
     <img src="images/conda_select_env_file.png" style="width:300px"/>
